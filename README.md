@@ -1,5 +1,5 @@
 # BootcampDataScience_Alura
-[![Badge](https://img.shields.io/badge/Author-Lucca Mello-%237159c1?style=flat-square&logo=ghost)](https://github.com/LuccaMello7/)
+[![Badge](https://img.shields.io/badge/Author-Lucca_Mello-%237159c1?style=flat-square&logo=ghost)](https://github.com/LuccaMello7/)
 [![Gmail Badge](https://img.shields.io/badge/-luccamello7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccamello7@gmail.com)](mailto:luccamello7@gmail.com)
 [![linkedin](https://img.shields.io/badge/luccamello7-0077B5??style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccamello7/)
 
